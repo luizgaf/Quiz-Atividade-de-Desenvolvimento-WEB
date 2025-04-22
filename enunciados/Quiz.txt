@@ -1,10 +1,10 @@
 Personagens:
 
-P.E.K.K.A
-Mago
-Gigante
-Arqueiras
-Príncipe
+0 : pekka
+1 : prince
+2 : gigante
+3 : mago
+4 : arqueira
 
 Pergunta 1: Como você lida com problemas?
 a) Encaro de frente com força total. (+P.E.K.K.A, +Gigante)

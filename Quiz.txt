@@ -1,0 +1,57 @@
+Personagens:
+
+P.E.K.K.A
+Mago
+Gigante
+Arqueiras
+Príncipe
+
+Pergunta 1: Como você lida com problemas?
+a) Encaro de frente com força total. (+P.E.K.K.A, +Gigante)
+b) Uso minha inteligência e estratégia. (+Mago, +Arqueiras)
+c) Resolvo com velocidade e atitude. (+Príncipe)
+
+Pergunta 2: Qual seu maior ponto forte?
+a) Força bruta. (+P.E.K.K.A, +Gigante)
+b) Magia e conhecimento. (+Mago)
+c) Agilidade e ataque surpresa. (+Príncipe, +Arqueiras)
+
+Pergunta 3: Em um grupo, você é...
+a) O tanque que protege todos. (+Gigante, +P.E.K.K.A)
+b) O estrategista que guia. (+Mago)
+c) O ágil que ataca rápido. (+Príncipe, +Arqueiras)
+
+Pergunta 4: O que você prefere fazer no tempo livre?
+a) Treinar e ficar mais forte. (+P.E.K.K.A, +Príncipe)
+b) Estudar ou criar algo novo. (+Mago)
+c) Relaxar e curtir a natureza. (+Arqueiras, +Gigante)
+
+Pergunta 5: Qual dessas armas você escolheria?
+a) Uma espada enorme. (+P.E.K.K.A, +Príncipe)
+b) Uma varinha poderosa. (+Mago)
+c) Um arco e flecha. (+Arqueiras)
+
+Pergunta 6: Como você age quando alguém te desafia?
+a) Vou pra cima sem pensar duas vezes. (+Príncipe, +P.E.K.K.A)
+b) Analiso e só ataco na hora certa. (+Mago, +Arqueiras)
+c) Aguento firme e mostro minha força. (+Gigante)
+
+Pergunta 7: Qual seu maior medo?
+a) Ser superado em força. (+P.E.K.K.A, +Gigante)
+b) Perder o controle da situação. (+Mago)
+c) Ficar parado sem ação. (+Príncipe, +Arqueiras)
+
+Pergunta 8: Se fosse um herói em um filme, você seria...
+a) O guerreiro imparável. (+P.E.K.K.A, +Príncipe)
+b) O sábio feiticeiro. (+Mago)
+c) A caçadora ágil. (+Arqueiras, +Gigante)
+
+Pergunta 9: Qual dessas cores mais combina com você?
+a) Preto ou roxo. (+P.E.K.K.A)
+b) Azul ou vermelho. (+Mago, +Príncipe)
+c) Verde ou rosa. (+Arqueiras, +Gigante)
+
+Pergunta 10: Como você quer ser lembrado?
+a) Como o mais forte e resistente. (+P.E.K.K.A, +Gigante)
+b) Como o mais inteligente e habilidoso. (+Mago)
+c) Como rápido, decisivo e eficaz. (+Príncipe, +Arqueiras)

@@ -3,17 +3,16 @@ function calcularResultado() {
     const respostas = document.querySelectorAll('input[type="radio"]:checked');
     
     respostas.forEach(resposta => {
-        const valor = resposta.value;
-        const indices = valor.split('');
+        const valores = resposta.value.split(',');
         
-        indices.forEach(index => {
-            const indiceNum = parseInt(index);
-            if (indiceNum >= 0 && indiceNum <= 4) {
-                pontos[indiceNum]++;
+        valores.forEach((valor, indice) => {
+            const pontosParaAdicionar = parseInt(valor);
+            if (!isNaN(pontosParaAdicionar)) {
+                pontos[indice] += pontosParaAdicionar;
             }
         });
     });
-    
+
     let maiorPontuacao = -1;
     let indiceVencedor = 0;
     
@@ -53,7 +52,8 @@ function verificarRespostas() {
         const respostaMarcada = grupo.querySelector('input[type="radio"]:checked');
         
         if (!respostaMarcada) {
-            alert(`Por favor, responda todas as perguntas antes de ver o resultado!`);
+            const numeroPergunta = grupo.querySelector('p').textContent.split('.')[0];
+            alert(`Por favor, responda a pergunta ${numeroPergunta} antes de ver o resultado!`);
             return false;
         }
     }

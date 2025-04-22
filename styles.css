@@ -3,7 +3,12 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6, p, li, label {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Blockhead';
+}
+
+@font-face {
+    font-family: 'Blockhead';
+    src: url(Clash-Royale-Font/You\ Blockhead.ttf);
 }
 
 body {

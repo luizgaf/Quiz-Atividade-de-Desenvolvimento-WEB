@@ -6,6 +6,15 @@ h1, h2, h3, h4, h5, h6, p, li, label {
     font-family: 'Arial', sans-serif;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url('imgs/background.jpg') center/cover no-repeat fixed;
+}
+
 .cc {
     justify-content: center;
     align-items: center;
@@ -16,19 +25,32 @@ h1, h2, h3, h4, h5, h6, p, li, label {
     width: 100%;
     flex-direction: column;
     padding: 40px 20px;
-    background: #ffffff;
-    color: #333;
+    background: #ffffff00;
+    color: #ffffff;
     border-bottom: 1px solid #eee;
     text-align: center;
+    font-weight: bold;
+
+    .title{
+        color: rgb(255, 230, 0);
+        font-size: 60px;
+    }
+    
+    .subtitle{
+        color: #ffffff;
+        font-size: 35px;
+    }
 }
+
 
 .intro-text {
     max-width: 600px;
     text-align: center;
     margin-top: 10px;
-    font-size: 1rem;
-    color: #555;
+    font-size: 20px;
+    color: #ffffff;
     line-height: 1.6;
+    
 }
 
 

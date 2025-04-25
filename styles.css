@@ -216,3 +216,26 @@ body {
 .submit-btn:hover {
     background-color: #3b40a4;
 }
+
+
+.descricao-personagem {
+    margin: 15px 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.pontos-personagem {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #d41a1a;
+}
+
+#reiniciar-quiz{
+    margin-top: 20px;
+    padding: 8px 16px;
+    background-color: #1f588e;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
